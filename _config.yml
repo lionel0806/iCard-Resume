@@ -1,9 +1,9 @@
 # Site settings
-title: ddbullfrog's blog
-description: ddbullfrog's blog
+title: lionel's resume
+description: lionel's resume
 favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: http://ddbullfrog.github.io/iCard-Resume
-url: http://ddbullfrog.github.io/iCard-Resume
+baseurl: http://lionel0806.github.io/iCard-Resume
+url: http://lionel0806.github.io/iCard-Resume
 rss_url: /iCard-Resume/pages/atom.xml
 
 # Build settings
@@ -11,69 +11,56 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  name: 李贤
+  title: c/c++ 工程师
+  address: 北京
+  email: lixiansir@gmail.com
+  link: http://lionel0806.github.io
+  weibo:http://weibo.com/lionel0806
+  github: lionel0806
+  linkedin: lionel0806
+  twitter:
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
+      company: Goosat
+      location: 广东珠海
+      title: linux c 工程师
       started: 2012
       duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 在嵌入式Linux平台上开发卫星直播应用程序，设计MPEG-4/H264 解码，Linux C的开发，移植以及调试。 
+    - work2:
+      company: 天脉聚源（Tvmining）
+      location: 北京
+      title: iOS Developer
+      started: 2015
+      duration: (2015 - ~)
+      description: .
   educationHistory:
     - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: 兰州大学
+      degree: 本科
+      major: 信息与计算科学
+      started: 2008
+      duration: (2008 - 2012)
+      description: 
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Linux
+      percentage: 60%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: C
+      percentage: 80%
     - skill3:
-      name: JavaScript
+      name: Objective-c
       percentage: 80%
     - skill4:
-      name: AngularJS
-      percentage: 80%
+      name: Cocoa
+      percentage: 40%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Git
+      percentage: 80%
