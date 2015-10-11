@@ -2,8 +2,8 @@
 title: lionel's resume
 description: lionel's resume
 favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: http://lionel0806.github.io/iCard-Resume
-url: http://lionel0806.github.io/iCard-Resume
+baseurl: http://lionel0806.github.io/resume
+url: http://lionel0806.github.io/resume
 rss_url: /iCard-Resume/pages/atom.xml
 
 # Build settings
@@ -19,23 +19,22 @@ author:
   weibo: http://weibo.com/lionel0806
   github: lionel0806
   linkedin: lionel0806
-  twitter:
   gavatar: /iCard-Resume/assets/img/avatar.JPG
   workHistory:
     - work1:
       company: Goosat
       location: 广东珠海
-      title: linux c 工程师
+      title: Linux C 工程师
       started: 2012
       duration: (2012 - 2014)
-      description: 在嵌入式Linux平台上开发卫星直播应用程序，设计MPEG-4/H264 解码，Linux C的开发，移植以及调试。 
+      description: 嵌入式Linux平台上卫星视频直播应用程序的开发，维护工作，涉及MPEG-4/H264 解码，Linux C的开发，移植以及调试。 
     - work2:
       company: 天脉聚源（Tvmining）
       location: 北京
       title: iOS Developer
       started: 2015
       duration: (2015 - ~)
-      description: .
+      description: 视频直播相关iOS应用的开发，迭代，维护工作。
   educationHistory:
     - education1:
       organization: 兰州大学
